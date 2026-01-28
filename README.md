@@ -48,7 +48,8 @@ Menu
 
 In-Game Controls
 
-| Action | Player 1 | Player 2|
+| Action | Player 1 | Player 2 |
+| --- | --- | --- 
 | :--- | :--- |
 | Move Up | Arrow Up | z |
 | Move Down | Arrow Down | s |
